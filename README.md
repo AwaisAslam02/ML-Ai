@@ -1,1 +1,1 @@
-This is a AI based Article summarizer. which takes Url as input and summarizes the article with high accuracy while maintaining context
+This reprositry is consist of several projects that include ML/Ai projetcs in this 
